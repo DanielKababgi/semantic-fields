@@ -1,0 +1,324 @@
+,id,title,author,author_birth_year,period,type,genre,date,file,source,annotation,tokens_cleaned
+0,1,Der sterbende Cato,Gottsched,1700,Aufklaerung,Tragedy,drama,1731,gottsched-der-sterbende-cato.xml,https://github.com/dracor-org/gerdracor,,22047
+1,2,Ein Deutsches Vorspiel,Neuber,1697,Aufklaerung,,drama,1734,neuber-ein-deutsches-vorspiel.xml,https://github.com/dracor-org/gerdracor,,6480
+2,3,Die Pietisterey im Fischbein-Rocke oder Die Doctormäßige Frau,Gottsched,1700,Aufklaerung,Comedy,drama,1736,gottschedin-die-pietisterey-im-fischbein-rocke.xml,https://github.com/dracor-org/gerdracor,,27691
+3,4,Die von der Weisheit wider die Unwissenheit beschützte Schauspielkunst,Neuber,1697,Aufklaerung,,drama,1736,neuber-die-beschuetzte-schauspielkunst.xml,https://github.com/dracor-org/gerdracor,,7377
+4,5,Die Verehrung der Vollkommenheit durch die gebesserten deutschen Schauspiele,Neuber,1697,Aufklaerung,,drama,1737,neuber-die-verehrung-der-vollkommenheit.xml,https://github.com/dracor-org/gerdracor,,7091
+5,6,Der Bookesbeutel,Borkenstein,1705,Aufklaerung,Comedy,drama,1741,borkenstein-der-bookesbeutel.xml,https://github.com/dracor-org/gerdracor,,20442
+6,7,Atalanta oder die bezwungene Sprödigkeit,Gottsched,1700,Aufklaerung,,drama,1741,gottsched-atalanta.xml,https://github.com/dracor-org/gerdracor,,17850
+7,8,Die Geistlichen auf dem Lande,Krüger,1723,Aufklaerung,Comedy,drama,1743,krueger-die-geistlichen-auf-dem-lande.xml,https://github.com/dracor-org/gerdracor,,27837
+8,9,Der geschäftige Müßiggänger,Schlegel,1719,Aufklaerung,Comedy,drama,1743,schlegel-der-geschaeftige-muessiggaenger.xml,https://github.com/dracor-org/gerdracor,,26883
+9,10,Die Betschwester,Gellert,1715,Aufklaerung,Comedy,drama,1745,gellert-die-betschwester.xml,https://github.com/dracor-org/gerdracor,,20463
+10,11,Das Testament,Gottsched,1700,Aufklaerung,Comedy,drama,1745,gottschedin-das-testament.xml,https://github.com/dracor-org/gerdracor,,28199
+11,12,Der Witzling,Gottsched,1700,Aufklaerung,Comedy,drama,1745,gottschedin-der-witzling.xml,https://github.com/dracor-org/gerdracor,,10115
+12,13,Der Hypochondrist,Quistorp,1722,Aufklaerung,Comedy,drama,1745,quistorp-der-hypochondrist.xml,https://github.com/dracor-org/gerdracor,,27930
+13,14,Canut,Schlegel,1719,Aufklaerung,Tragedy,drama,1746,schlegel-canut.xml,https://github.com/dracor-org/gerdracor,,17002
+14,15,Die zärtlichen Schwestern,Gellert,1715,Aufklaerung,Comedy,drama,1747,gellert-die-zaertlichen-schwestern.xml,https://github.com/dracor-org/gerdracor,,26378
+15,16,Die Candidaten oder Die Mittel zu einem Amte zu gelangen,Krüger,1723,Aufklaerung,Comedy,drama,1747,krueger-die-candidaten.xml,https://github.com/dracor-org/gerdracor,,26832
+16,17,"Damon, oder die wahre Freundschaft",Lessing,1729,Aufklaerung,Comedy,drama,1747,lessing-damon.xml,https://github.com/dracor-org/gerdracor,,8725
+17,18,Die stumme Schönheit,Schlegel,1719,Aufklaerung,Comedy,drama,1747,schlegel-die-stumme-schoenheit.xml,https://github.com/dracor-org/gerdracor,,9313
+18,19,Der junge Gelehrte,Lessing,1729,Aufklaerung,Comedy,drama,1748,lessing-der-junge-gelehrte.xml,https://github.com/dracor-org/gerdracor,,30167
+19,20,Der Triumph der guten Frauen,Schlegel,1719,Aufklaerung,Comedy,drama,1748,schlegel-der-triumph-der-guten-frauen.xml,https://github.com/dracor-org/gerdracor,,24350
+20,21,Die alte Jungfer,Lessing,1729,Aufklaerung,Comedy,drama,1749,lessing-die-alte-jungfer.xml,https://github.com/dracor-org/gerdracor,,12076
+21,22,Die Schäferinsel,Mylius,1722,Aufklaerung,Comedy,drama,1749,mylius-die-schaeferinsel.xml,https://github.com/dracor-org/gerdracor,,14649
+22,23,Die Juden,Lessing,1729,Aufklaerung,Comedy,drama,1754,lessing-die-juden.xml,https://github.com/dracor-org/gerdracor,,12192
+23,24,Das Schäferfest oder Die Herbstfreude,Neuber,1697,Aufklaerung,Comedy,drama,1754,neuber-das-schaeferfest.xml,https://github.com/dracor-org/gerdracor,,24592
+24,25,Der Freigeist,Lessing,1729,Aufklaerung,Comedy,drama,1755,lessing-der-freigeist.xml,https://github.com/dracor-org/gerdracor,,24910
+25,26,Der Misogyn,Lessing,1729,Aufklaerung,Comedy,drama,1755,lessing-der-misogyn.xml,https://github.com/dracor-org/gerdracor,,14932
+26,27,Der Schatz,Lessing,1729,Aufklaerung,Comedy,drama,1755,lessing-der-schatz.xml,https://github.com/dracor-org/gerdracor,,14436
+27,28,Miß Sara Sampson,Lessing,1729,Aufklaerung,Tragedy,drama,1755,lessing-miss-sara-sampson.xml,https://github.com/dracor-org/gerdracor,,29871
+28,29,Lucie Woodvil,Pfeil,1732,Aufklaerung,Tragedy,drama,1756,pfeil-lucie-woodvil.xml,https://github.com/dracor-org/gerdracor,,30859
+29,30,Der Tod Adams,Klopstock,1724,Aufklaerung,Tragedy,drama,1757,klopstock-der-tod-adams.xml,https://github.com/dracor-org/gerdracor,,8234
+30,31,Der Freigeist,Brawe,1738,Aufklaerung,Tragedy,drama,1758,brawe-der-freigeist.xml,https://github.com/dracor-org/gerdracor,,22507
+31,32,Codrus,Cronegk,1758,Aufklaerung,Tragedy,drama,1758,cronegk-codrus.xml,https://github.com/dracor-org/gerdracor,,18771
+32,33,Lady Johanna Gray oder Der Triumf der Religion,Wieland,1733,Aufklaerung,Tragedy,drama,1758,wieland-lady-johanna-gray.xml,https://github.com/dracor-org/gerdracor,,16678
+33,34,Philotas,Lessing,1729,Aufklaerung,Tragedy,drama,1759,lessing-philotas.xml,https://github.com/dracor-org/gerdracor,,8144
+34,35,Der Mißtrauische,Cronegk,1758,Aufklaerung,Comedy,drama,1760,cronegk-der-misstrauische.xml,https://github.com/dracor-org/gerdracor,,29077
+35,36,Klementina von Porretta,Wieland,1733,Aufklaerung,,drama,1760,wieland-klementina-von-porretta.xml,https://github.com/dracor-org/gerdracor,,26359
+36,37,Evander und Alcimna,Gessner,1730,Aufklaerung,,drama,1762,gessner-evander-und-alcimna.xml,https://github.com/dracor-org/gerdracor,,10386
+37,38,"Mägera, die förchterliche Hexe oder Das bezauberte Schloß des Herrn von Einhorn",Hafner,1735,Aufklaerung,Comedy,drama,1763,hafner-maegera-die-foerchterliche-hexe.xml,https://github.com/dracor-org/gerdracor,,24849
+38,39,Die Tugend auf der Schaubühne; oder: Harlekin's Heirath,Möser,1720,Aufklaerung,,drama,1763,moeser-die-tugend-auf-der-schaubuehne.xml,https://github.com/dracor-org/gerdracor,,8065
+39,40,Der Furchtsame,Hafner,1735,Aufklaerung,Comedy,drama,1764,hafner-der-furchtsame.xml,https://github.com/dracor-org/gerdracor,,23942
+40,41,Der Comödienfeind,André,1741,Aufklaerung,Comedy,drama,1765,andre-der-comoedienfeind.xml,https://github.com/dracor-org/gerdracor,,6521
+41,42,Der Mann nach der Uhr oder Der ordentliche Mann,Hippel,1741,Aufklaerung,Comedy,drama,1765,hippel-der-mann-nach-der-uhr.xml,https://github.com/dracor-org/gerdracor,,10066
+42,43,Atreus und Thyest,Weiße,1726,Aufklaerung,Tragedy,drama,1766,weisse-atreus-und-thyest.xml,https://github.com/dracor-org/gerdracor,,17954
+43,44,Der auf den Parnaß versetzte grüne Hut,Klemm,1736,Aufklaerung,Comedy,drama,1767,klemm-der-auf-den-parnass-versetzte-gruene-hut.xml,https://github.com/dracor-org/gerdracor,,14353
+44,45,Prinzessin Pumphia,Kurz,1717,Aufklaerung,Comedy,drama,1767,kurz-prinzessin-pumphia.xml,https://github.com/dracor-org/gerdracor,,13527
+45,46,Minna von Barnhelm oder das Soldatenglück,Lessing,1729,Aufklaerung,Comedy,drama,1767,lessing-minna-von-barnhelm.xml,https://github.com/dracor-org/gerdracor,,30544
+46,47,Julie,Sturz,1736,Aufklaerung,Tragedy,drama,1767,sturz-julie.xml,https://github.com/dracor-org/gerdracor,,16638
+47,48,Brutus,Brawe,1738,Aufklaerung,Tragedy,drama,1768,brawe-brutus.xml,https://github.com/dracor-org/gerdracor,,14208
+48,49,Ugolino,Gerstenberg,1737,Aufklaerung,Tragedy,drama,1768,gerstenberg-ugolino.xml,https://github.com/dracor-org/gerdracor,,18476
+49,50,Die Laune des Verliebten,Goethe,1749,Aufklaerung,,drama,1768,goethe-die-laune-des-verliebten.xml,https://github.com/dracor-org/gerdracor,,6635
+50,51,Der Postzug oder die noblen Passionen,Ayrenhoff,1733,Aufklaerung,Comedy,drama,1769,ayrenhoff-der-postzug.xml,https://github.com/dracor-org/gerdracor,,16618
+51,52,Hermanns Schlacht,Klopstock,1724,Aufklaerung,,drama,1769,klopstock-hermanns-schlacht.xml,https://github.com/dracor-org/gerdracor,,26797
+52,53,Die Jagd,Weiße,1726,Aufklaerung,,drama,1770,weisse-die-jagd.xml,https://github.com/dracor-org/gerdracor,,24763
+53,54,Emilia Galotti,Lessing,1729,Aufklaerung,Tragedy,drama,1772,lessing-emilia-galotti.xml,https://github.com/dracor-org/gerdracor,,24879
+54,55,Götz von Berlichingen mit der eisernen Hand,Goethe,1749,Aufklaerung,,drama,1773,goethe-goetz-von-berlichingen-mit-der-eisernen-hand.xml,https://github.com/dracor-org/gerdracor,,33266
+55,56,Satyros oder der vergötterte Waldteufel,Goethe,1749,Aufklaerung,,drama,1773,goethe-satyros.xml,https://github.com/dracor-org/gerdracor,,3752
+56,57,Alceste,Wieland,1733,Aufklaerung,,drama,1773,wieland-alceste.xml,https://github.com/dracor-org/gerdracor,,7177
+57,58,Clavigo,Goethe,1749,Aufklaerung,Tragedy,drama,1774,goethe-clavigo.xml,https://github.com/dracor-org/gerdracor,,15847
+58,59,"Götter, Helden und Wieland",Goethe,1749,Aufklaerung,,drama,1774,goethe-goetter-helden-und-wieland.xml,https://github.com/dracor-org/gerdracor,,4199
+59,60,Der Besuch um Mitternacht,Leisewitz,1752,Aufklaerung,,drama,1774,leisewitz-der-besuch-um-mitternacht.xml,https://github.com/dracor-org/gerdracor,,576
+60,61,Die Pfandung,Leisewitz,1752,Aufklaerung,,drama,1774,leisewitz-die-pfandung.xml,https://github.com/dracor-org/gerdracor,,532
+61,62,Der Hofmeister oder Vorteile der Privaterziehung,Lenz,1751,Aufklaerung,Comedy,drama,1774,lenz-der-hofmeister.xml,https://github.com/dracor-org/gerdracor,,27976
+62,63,Der neue Menoza oder Geschichte des cumbanischen Prinzen Tandi,Lenz,1751,Aufklaerung,Comedy,drama,1774,lenz-der-neue-menoza.xml,https://github.com/dracor-org/gerdracor,,21196
+63,64,Ariadne auf Naxos,Brandes,1735,Aufklaerung,,drama,1775,brandes-ariadne-auf-naxos.xml,https://github.com/dracor-org/gerdracor,,2937
+64,65,Erwin und Elmire,Goethe,1749,Aufklaerung,,drama,1775,goethe-erwin-und-elmire.xml,https://github.com/dracor-org/gerdracor,,7278
+65,66,Faust [in ursprünglicher Gestalt],Goethe,1749,Aufklaerung,,drama,1775,goethe-faust-in-urspruenglicher-gestalt.xml,https://github.com/dracor-org/gerdracor,,14373
+66,67,Der Dorfjahrmarkt,Gotter,1746,Aufklaerung,,drama,1775,gotter-der-dorfjahrmarkt.xml,https://github.com/dracor-org/gerdracor,,13927
+67,68,Medea,Gotter,1746,Aufklaerung,,drama,1775,gotter-medea.xml,https://github.com/dracor-org/gerdracor,,2878
+68,69,Das leidende Weib,Klinger,1752,Aufklaerung,Tragedy,drama,1775,klinger-das-leidende-weib.xml,https://github.com/dracor-org/gerdracor,,18797
+69,70,Die Freunde machen den Philosophen,Lenz,1751,Aufklaerung,Comedy,drama,1775,lenz-die-freunde-machen-den-philosophen.xml,https://github.com/dracor-org/gerdracor,,13810
+70,71,Die Reue nach der That,Wagner,1747,Aufklaerung,,drama,1775,wagner-die-reue-nach-der-that.xml,https://github.com/dracor-org/gerdracor,,24170
+71,72,Johann Faust,Weidmann,1744,Aufklaerung,,drama,1775,weidmann-johann-faust.xml,https://github.com/dracor-org/gerdracor,,16668
+72,73,Eid und Pflicht,Engel,1741,Aufklaerung,Tragedy,drama,1776,engel-eid-und-pflicht.xml,https://github.com/dracor-org/gerdracor,,21004
+73,74,Die Mitschuldigen,Goethe,1749,Aufklaerung,Comedy,drama,1776,goethe-die-mitschuldigen.xml,https://github.com/dracor-org/gerdracor,,8909
+74,75,Stella,Goethe,1749,Aufklaerung,,drama,1776,goethe-stella.xml,https://github.com/dracor-org/gerdracor,,14050
+75,76,Die neue Arria,Klinger,1752,Aufklaerung,,drama,1776,klinger-die-neue-arria.xml,https://github.com/dracor-org/gerdracor,,27597
+76,77,Die Zwillinge,Klinger,1752,Aufklaerung,Tragedy,drama,1776,klinger-die-zwillinge.xml,https://github.com/dracor-org/gerdracor,,20828
+77,78,Simsone Grisaldo,Klinger,1752,Aufklaerung,,drama,1776,klinger-simsone-grisaldo.xml,https://github.com/dracor-org/gerdracor,,30906
+78,79,Julius von Tarent,Leisewitz,1752,Aufklaerung,Tragedy,drama,1776,leisewitz-julius-von-tarent.xml,https://github.com/dracor-org/gerdracor,,19123
+79,80,Der Engländer,Lenz,1751,Aufklaerung,,drama,1776,lenz-der-englaender.xml,https://github.com/dracor-org/gerdracor,,6838
+80,81,Die Soldaten,Lenz,1751,Aufklaerung,,drama,1776,lenz-die-soldaten.xml,https://github.com/dracor-org/gerdracor,,18125
+81,82,Die Kindermörderin,Wagner,1747,Aufklaerung,Tragedy,drama,1776,wagner-die-kindermoerderin.xml,https://github.com/dracor-org/gerdracor,,26069
+82,83,Sturm und Drang,Klinger,1752,Aufklaerung,,drama,1777,klinger-sturm-und-drang.xml,https://github.com/dracor-org/gerdracor,,21177
+83,84,"Odoardo Galotti, Vater der Emilia",Bodmer,1698,Aufklaerung,,drama,1778,bodmer-odoardo-galotti-vater-der-emilia.xml,https://github.com/dracor-org/gerdracor,,5865
+84,85,Das Jahrmarktsfest zu Plundersweilern,Goethe,1749,Aufklaerung,Comedy,drama,1778,goethe-das-jahrmarktsfest-zu-plundersweilern.xml,https://github.com/dracor-org/gerdracor,,5192
+85,86,Der Triumph der Empfindsamkeit,Goethe,1749,Aufklaerung,,drama,1778,goethe-der-triumph-der-empfindsamkeit.xml,https://github.com/dracor-org/gerdracor,,13614
+86,87,Proserpina,Goethe,1749,Aufklaerung,,drama,1778,goethe-proserpina.xml,https://github.com/dracor-org/gerdracor,,1440
+87,88,Fausts Leben dramatisiert,Maler Müller,1749,Aufklaerung,,drama,1778,maler-mueller-fausts-leben-dramatisiert.xml,https://github.com/dracor-org/gerdracor,,27866
+88,89,Hanswurst von Salzburg mit dem hölzernen Gat,Schink,1755,Aufklaerung,,drama,1778,schink-hanswurst-von-salzburg-mit-dem-hoelzernen-gat.xml,https://github.com/dracor-org/gerdracor,,17787
+89,90,Voltaire am Abend seiner Apotheose,Wagner,1747,Aufklaerung,,drama,1778,wagner-voltaire-am-abend-seiner-apotheose.xml,https://github.com/dracor-org/gerdracor,,5088
+90,91,Ino,Brandes,1735,Aufklaerung,,drama,1779,brandes-ino.xml,https://github.com/dracor-org/gerdracor,,3140
+91,92,Der deutsche Hausvater oder die Familie,Gemmingen-Hornberg,1755,Aufklaerung,,drama,1779,gemmingen-hornberg-der-deutsche-hausvater.xml,https://github.com/dracor-org/gerdracor,,22864
+92,93,Nathan der Weise,Lessing,1729,Aufklaerung,,drama,1779,lessing-nathan-der-weise.xml,https://github.com/dracor-org/gerdracor,,36264
+93,94,Prinz Seiden-Wurm der Reformator oder die Kron-Kompetenten,Klinger,1752,Aufklaerung,,drama,1780,klinger-prinz-seiden-wurm-der-reformator.xml,https://github.com/dracor-org/gerdracor,,16170
+94,95,Agnes Bernauerin,Törring,1753,Aufklaerung,Tragedy,drama,1780,toerring-agnes-bernauerin.xml,https://github.com/dracor-org/gerdracor,,18325
+95,96,Der Rauchfangkehrer oder Die unentbehrlichen Verräther ihrer Herrschaften aus Eigennutz,Auenbrugger,1784,Kunstepoche,Comedy,drama,1781,auenbrugger-der-rauchfangkehrer.xml,https://github.com/dracor-org/gerdracor,,18860
+96,97,Belmont und Constanze oder Die Entführung aus dem Serail,Bretzner,1748,Aufklaerung,,drama,1781,bretzner-belmont-und-constanze.xml,https://github.com/dracor-org/gerdracor,,10150
+97,98,Golo und Genovefa,Maler Müller,1749,Aufklaerung,,drama,1781,maler-mueller-golo-und-genovefa.xml,https://github.com/dracor-org/gerdracor,,54401
+98,99,Blunt oder der Gast,Moritz,1756,Aufklaerung,,drama,1781,moritz-blunt-oder-der-gast.xml,https://github.com/dracor-org/gerdracor,,7297
+99,100,Die Räuber,Schiller,1759,Aufklaerung,,drama,1781,schiller-die-raeuber.xml,https://github.com/dracor-org/gerdracor,,45899
+100,101,Die Verschwörung des Fiesco zu Genua,Schiller,1759,Aufklaerung,Tragedy,drama,1782,schiller-die-verschwoerung-des-fiesco-zu-genua.xml,https://github.com/dracor-org/gerdracor,,35413
+101,102,Der neue Doktor Faust,Schink,1755,Aufklaerung,Comedy,drama,1782,schink-der-neue-doktor-faust.xml,https://github.com/dracor-org/gerdracor,,6368
+102,103,Die Entführung aus dem Serail,Stephanie,1741,Aufklaerung,,drama,1782,stephanie-die-entfuehrung-aus-dem-serail.xml,https://github.com/dracor-org/gerdracor,,11357
+103,104,Die beiden Billets,Heyne,1751,Aufklaerung,Comedy,drama,1783,heyne-die-beiden-billets.xml,https://github.com/dracor-org/gerdracor,,6861
+104,105,Verbrechen aus Ehrsucht,Iffland,1759,Aufklaerung,,drama,1784,iffland-verbrechen-aus-ehrsucht.xml,https://github.com/dracor-org/gerdracor,,25174
+105,106,Kabale und Liebe,Schiller,1759,Aufklaerung,Tragedy,drama,1784,schiller-kabale-und-liebe.xml,https://github.com/dracor-org/gerdracor,,35081
+106,107,Die Überschwemmung,Schouwärt,1757,Aufklaerung,,drama,1784,schouwaert-die-ueberschwemmung.xml,https://github.com/dracor-org/gerdracor,,22566
+107,108,Der Vetter in Lissabon,Schröder,1744,Aufklaerung,,drama,1784,schroeder-der-vetter-in-lissabon.xml,https://github.com/dracor-org/gerdracor,,15187
+108,109,Die Jäger,Iffland,1759,Aufklaerung,,drama,1785,iffland-die-jaeger.xml,https://github.com/dracor-org/gerdracor,,32206
+109,110,Der Schauspieldirektor,Stephanie,1741,Aufklaerung,,drama,1786,stephanie-der-schauspieldirektor.xml,https://github.com/dracor-org/gerdracor,,8931
+110,111,Doktor und Apotheker,Stephanie,1741,Aufklaerung,,drama,1786,stephanie-doktor-und-apotheker.xml,https://github.com/dracor-org/gerdracor,,22681
+111,112,Iphigenie auf Tauris,Goethe,1749,Aufklaerung,,drama,1787,goethe-iphigenie-auf-tauris.xml,https://github.com/dracor-org/gerdracor,,16689
+112,113,"Don Carlos, Infant von Spanien",Schiller,1759,Aufklaerung,,drama,1787,schiller-don-carlos-infant-von-spanien.xml,https://github.com/dracor-org/gerdracor,,50573
+113,114,Die Liebe im Narrenhause,Stephanie,1741,Aufklaerung,,drama,1787,stephanie-die-liebe-im-narrenhause.xml,https://github.com/dracor-org/gerdracor,,17511
+114,115,Die neue Messaline,Büschel,1758,Aufklaerung,,drama,1788,bueschel-die-neue-messaline.xml,https://github.com/dracor-org/gerdracor,,4720
+115,116,Egmont,Goethe,1749,Aufklaerung,Tragedy,drama,1788,goethe-egmont.xml,https://github.com/dracor-org/gerdracor,,29085
+116,117,Menschenhaß und Reue,Kotzebue,1761,Aufklaerung,,drama,1788,kotzebue-menschenhass-und-reue.xml,https://github.com/dracor-org/gerdracor,,28224
+117,118,Die Indianer in England,Kotzebue,1761,Aufklaerung,Comedy,drama,1789,kotzebue-die-indianer-in-england.xml,https://github.com/dracor-org/gerdracor,,27103
+118,119,Virginia oder Das abgeschaffte Decemvirat,Ayrenhoff,1733,Aufklaerung,Tragedy,drama,1790,ayrenhoff-virginia.xml,https://github.com/dracor-org/gerdracor,,19157
+119,120,Torquato Tasso,Goethe,1749,Aufklaerung,,drama,1790,goethe-torquato-tasso.xml,https://github.com/dracor-org/gerdracor,,27729
+120,121,Figaro in Deutschland,Iffland,1759,Aufklaerung,Comedy,drama,1790,iffland-figaro-in-deutschland.xml,https://github.com/dracor-org/gerdracor,,37217
+121,122,Der Großkophta,Goethe,1749,Aufklaerung,Comedy,drama,1791,goethe-der-grosskophta.xml,https://github.com/dracor-org/gerdracor,,26882
+122,123,Der Stammbaum,Heyne,1751,Aufklaerung,Comedy,drama,1791,heyne-der-stammbaum.xml,https://github.com/dracor-org/gerdracor,,9058
+123,124,"Sultan Wampum, oder: die Wünsche",Kotzebue,1761,Aufklaerung,Comedy,drama,1791,kotzebue-sultan-wampum.xml,https://github.com/dracor-org/gerdracor,,15443
+124,125,Die Zauberflöte,Schikaneder,1751,Aufklaerung,,drama,1791,schikaneder-die-zauberfloete.xml,https://github.com/dracor-org/gerdracor,,15192
+125,126,Der Bürgergeneral,Goethe,1749,Aufklaerung,Comedy,drama,1793,goethe-der-buergergeneral.xml,https://github.com/dracor-org/gerdracor,,10577
+126,127,"Die Spanier in Peru, oder: Rollas Tod",Kotzebue,1761,Aufklaerung,Tragedy,drama,1794,kotzebue-die-spanier-in-peru.xml,https://github.com/dracor-org/gerdracor,,27239
+127,128,"Graf Benjowsky, oder: die Verschwörung auf Kamtschatka",Kotzebue,1761,Aufklaerung,,drama,1794,kotzebue-graf-benjowsky.xml,https://github.com/dracor-org/gerdracor,,30799
+128,129,Abellino,Zschokke,1771,Kunstepoche,,drama,1795,zschokke-abellino.xml,https://github.com/dracor-org/gerdracor,,33622
+129,130,Der Spieler,Iffland,1759,Aufklaerung,,drama,1796,iffland-der-spieler.xml,https://github.com/dracor-org/gerdracor,,29383
+130,131,Der Dorfbarbier,Weidmann,1744,Aufklaerung,,drama,1796,weidmann-der-dorfbarbier.xml,https://github.com/dracor-org/gerdracor,,7162
+131,132,Üble Laune,Kotzebue,1761,Aufklaerung,,drama,1797,kotzebue-ueble-laune.xml,https://github.com/dracor-org/gerdracor,,26391
+132,133,Doktor Faust,Soden,1754,Aufklaerung,,drama,1797,soden-doktor-faust.xml,https://github.com/dracor-org/gerdracor,,26307
+133,134,Der gestiefelte Kater,Tieck,1773,Kunstepoche,,drama,1797,tieck-der-gestiefelte-kater.xml,https://github.com/dracor-org/gerdracor,,21639
+134,135,Die Theegesellschaft,Tieck,1773,Kunstepoche,Comedy,drama,1797,tieck-die-theegesellschaft.xml,https://github.com/dracor-org/gerdracor,,10612
+135,136,Karl von Berneck,Tieck,1773,Kunstepoche,Tragedy,drama,1797,tieck-karl-von-berneck.xml,https://github.com/dracor-org/gerdracor,,26829
+136,137,Ritter Blaubart,Tieck,1773,Kunstepoche,,drama,1797,tieck-ritter-blaubart.xml,https://github.com/dracor-org/gerdracor,,24145
+137,138,Die Geisterinsel,Gotter,1746,Aufklaerung,,drama,1798,gotter-die-geisterinsel.xml,https://github.com/dracor-org/gerdracor,,15729
+138,139,Wallensteins Lager,Schiller,1759,Aufklaerung,,drama,1798,schiller-wallensteins-lager.xml,https://github.com/dracor-org/gerdracor,,10104
+139,140,Die Teufelsmühle am Wienerberg,Hensler,1759,Aufklaerung,,drama,1799,hensler-die-teufelsmuehle-am-wienerberg.xml,https://github.com/dracor-org/gerdracor,,18433
+140,141,"Der Hyperboreische Esel, oder Die heutige Bildung",Kotzebue,1761,Aufklaerung,Comedy,drama,1799,kotzebue-der-hyperboreische-esel.xml,https://github.com/dracor-org/gerdracor,,8393
+141,142,Die Piccolomini,Schiller,1759,Aufklaerung,,drama,1799,schiller-die-piccolomini.xml,https://github.com/dracor-org/gerdracor,,24024
+142,143,Wallensteins Tod,Schiller,1759,Aufklaerung,Tragedy,drama,1799,schiller-wallensteins-tod.xml,https://github.com/dracor-org/gerdracor,,36072
+143,144,Prinz Zerbino oder die Reise nach dem guten Geschmack,Tieck,1773,Kunstepoche,Comedy,drama,1799,tieck-prinz-zerbino.xml,https://github.com/dracor-org/gerdracor,,65251
+144,145,Das Bauerngut,Treitschke,1776,Kunstepoche,Comedy,drama,1799,treitschke-das-bauerngut.xml,https://github.com/dracor-org/gerdracor,,9252
+145,146,Der Pudelhund,Eckartshausen,1752,Aufklaerung,Comedy,drama,1800,eckartshausen-der-pudelhund.xml,https://github.com/dracor-org/gerdracor,,9620
+146,147,Maria Stuart,Schiller,1759,Aufklaerung,Tragedy,drama,1800,schiller-maria-stuart.xml,https://github.com/dracor-org/gerdracor,,34304
+147,148,Die verkehrte Welt,Tieck,1773,Kunstepoche,,drama,1800,tieck-die-verkehrte-welt.xml,https://github.com/dracor-org/gerdracor,,26874
+148,149,Leben und Tod der heiligen Genoveva,Tieck,1773,Kunstepoche,Tragedy,drama,1800,tieck-leben-und-tod-der-heiligen-genoveva.xml,https://github.com/dracor-org/gerdracor,,50923
+149,150,"Die Jubelfeier der Hölle, oder Faust der jüngere",Benkowitz,1764,Aufklaerung,,drama,1801,benkowitz-die-jubelfeier-der-hoelle.xml,https://github.com/dracor-org/gerdracor,,31550
+150,151,"Der Wirrwarr, oder der Muthwillige",Kotzebue,1761,Aufklaerung,Comedy,drama,1801,kotzebue-der-wirrwarr.xml,https://github.com/dracor-org/gerdracor,,22719
+151,152,Die beiden Klingsberg,Kotzebue,1761,Aufklaerung,Comedy,drama,1801,kotzebue-die-beiden-klingsberg.xml,https://github.com/dracor-org/gerdracor,,23942
+152,153,Die Jungfrau von Orleans,Schiller,1759,Aufklaerung,Tragedy,drama,1801,schiller-die-jungfrau-von-orleans.xml,https://github.com/dracor-org/gerdracor,,32402
+153,154,Coriolan,Collin,1771,Kunstepoche,Tragedy,drama,1802,collin-coriolan.xml,https://github.com/dracor-org/gerdracor,,23699
+154,155,Das Erbtheil des Vaters,Iffland,1759,Aufklaerung,,drama,1802,iffland-das-erbtheil-des-vaters.xml,https://github.com/dracor-org/gerdracor,,28865
+155,156,Die vierbeinigten Philosophen,Kannengießer,1802,Kunstepoche,,drama,1802,kannengiesser-die-vierbeinigten-philosophen.xml,https://github.com/dracor-org/gerdracor,,3298
+156,157,Die deutschen Kleinstädter,Kotzebue,1761,Aufklaerung,Comedy,drama,1802,kotzebue-die-deutschen-kleinstaedter.xml,https://github.com/dracor-org/gerdracor,,21479
+157,158,Alarcos,Schlegel,1719,Aufklaerung,Tragedy,drama,1802,schlegel-alarcos.xml,https://github.com/dracor-org/gerdracor,,11572
+158,159,Jon,Schlegel,1719,Aufklaerung,,drama,1802,schlegel-jon.xml,https://github.com/dracor-org/gerdracor,,18654
+159,160,Ponce de Leon,Brentano,1778,Kunstepoche,Comedy,drama,1803,brentano-ponce-de-leon.xml,https://github.com/dracor-org/gerdracor,,44374
+160,161,Die natürliche Tochter,Goethe,1749,Aufklaerung,Tragedy,drama,1803,goethe-die-natuerliche-tochter.xml,https://github.com/dracor-org/gerdracor,,23247
+161,162,Die Familie Schroffenstein,Kleist,1777,Kunstepoche,Tragedy,drama,1803,kleist-die-familie-schroffenstein.xml,https://github.com/dracor-org/gerdracor,,27243
+162,163,Pagenstreiche,Kotzebue,1761,Aufklaerung,Comedy,drama,1803,kotzebue-pagenstreiche.xml,https://github.com/dracor-org/gerdracor,,26458
+163,164,Die Braut von Messina oder Die feindlichen Brüder,Schiller,1759,Aufklaerung,Tragedy,drama,1803,schiller-die-braut-von-messina.xml,https://github.com/dracor-org/gerdracor,,26184
+164,165,Wilhelm Tell,Schiller,1759,Aufklaerung,,drama,1804,schiller-wilhelm-tell.xml,https://github.com/dracor-org/gerdracor,,31494
+165,166,Magie und Schicksal,Günderode,1780,Kunstepoche,,drama,1805,guenderode-magie-und-schicksal.xml,https://github.com/dracor-org/gerdracor,,9737
+166,167,Nikator,Günderode,1780,Kunstepoche,,drama,1805,guenderode-nikator.xml,https://github.com/dracor-org/gerdracor,,4500
+167,168,Udohla,Günderode,1780,Kunstepoche,,drama,1805,guenderode-udohla.xml,https://github.com/dracor-org/gerdracor,,6252
+168,169,"Mädchenfreundschaft, oder der türkische Gesandte",Kotzebue,1761,Aufklaerung,Comedy,drama,1805,kotzebue-maedchenfreundschaft.xml,https://github.com/dracor-org/gerdracor,,5269
+169,170,Fidelio,Sonnleithner,1766,Aufklaerung,,drama,1805,sonnleithner-fidelio.xml,https://github.com/dracor-org/gerdracor,,9935
+170,171,Amphitryon,Kleist,1777,Kunstepoche,Comedy,drama,1807,kleist-amphitryon.xml,https://github.com/dracor-org/gerdracor,,20857
+171,172,Der vollendete Faust oder Romanien in Jauer,Baggesen,1764,Aufklaerung,Comedy,drama,1808,baggesen-der-vollendete-faust.xml,https://github.com/dracor-org/gerdracor,,57327
+172,173,"Sigurd, der Schlangentödter",Fouqué,1777,Kunstepoche,,drama,1808,fouque-sigurd-der-schlangentoedter.xml,https://github.com/dracor-org/gerdracor,,32896
+173,174,Faust,Goethe,1749,Aufklaerung,Tragedy,drama,1808,goethe-faust-eine-tragoedie.xml,https://github.com/dracor-org/gerdracor,,35378
+174,175,Der zerbrochne Krug,Kleist,1777,Kunstepoche,Comedy,drama,1808,kleist-der-zerbrochene-krug.xml,https://github.com/dracor-org/gerdracor,,19539
+175,176,Die Hermannsschlacht,Kleist,1777,Kunstepoche,,drama,1808,kleist-die-hermannsschlacht.xml,https://github.com/dracor-org/gerdracor,,25607
+176,177,Penthesilea,Kleist,1777,Kunstepoche,Comedy,drama,1808,kleist-penthesilea.xml,https://github.com/dracor-org/gerdracor,,28314
+177,178,Miltiades,Seume,1763,Aufklaerung,Tragedy,drama,1808,seume-miltiades.xml,https://github.com/dracor-org/gerdracor,,16141
+178,179,Der vierundzwanzigste Februar,Werner,1768,Aufklaerung,Tragedy,drama,1809,werner-der-vierundzwanzigste-februar.xml,https://github.com/dracor-org/gerdracor,,12079
+179,180,Aslauga,Fouqué,1777,Kunstepoche,,drama,1810,fouque-aslauga.xml,https://github.com/dracor-org/gerdracor,,18922
+180,181,Sigurds Rache,Fouqué,1777,Kunstepoche,,drama,1810,fouque-sigurds-rache.xml,https://github.com/dracor-org/gerdracor,,25646
+181,182,Das Käthchen von Heilbronn oder die Feuerprobe,Kleist,1777,Kunstepoche,,drama,1810,kleist-das-kaethchen-von-heilbronn.xml,https://github.com/dracor-org/gerdracor,,30089
+182,183,Prinz Friedrich von Homburg,Kleist,1777,Kunstepoche,,drama,1810,kleist-prinz-friedrich-von-homburg.xml,https://github.com/dracor-org/gerdracor,,21374
+183,184,Das Loch oder Das wiedergefundene Paradies,Arnim,1781,Kunstepoche,,drama,1811,arnim-das-loch.xml,https://github.com/dracor-org/gerdracor,,7505
+184,185,Halle,Arnim,1782,Kunstepoche,,drama,1811,arnim-halle.xml,https://github.com/dracor-org/gerdracor,,51577
+185,186,Jerusalem,Arnim,1783,Kunstepoche,,drama,1811,arnim-jerusalem.xml,https://github.com/dracor-org/gerdracor,,31655
+186,187,"Johann, Herzog von Finnland",Weißenthurn,1772,Kunstepoche,,drama,1811,weissenthurn-johann-herzog-von-finnland.xml,https://github.com/dracor-org/gerdracor,,24631
+187,188,Die Wette,Goethe,1749,Aufklaerung,Comedy,drama,1812,goethe-die-wette.xml,https://github.com/dracor-org/gerdracor,,4173
+188,189,Faust. Ein Trauerspiel in fünf Acten,Klingemann,1777,Kunstepoche,Tragedy,drama,1812,klingemann-faust.xml,https://github.com/dracor-org/gerdracor,,23190
+189,190,Die Braut,Körner,1791,Kunstepoche,Comedy,drama,1812,koerner-die-braut.xml,https://github.com/dracor-org/gerdracor,,5854
+190,191,Zriny,Körner,1791,Kunstepoche,Tragedy,drama,1812,koerner-zriny.xml,https://github.com/dracor-org/gerdracor,,23530
+191,192,Der neun und zwanzigste Februar,Müllner,1774,Kunstepoche,Tragedy,drama,1812,muellner-der-neun-und-zwanzigste-februar.xml,https://github.com/dracor-org/gerdracor,,9826
+192,193,Die Dorfschule,Solbrig,1774,Kunstepoche,Comedy,drama,1812,solbrig-die-dorfschule.xml,https://github.com/dracor-org/gerdracor,,4312
+193,194,Die Bürger in Wien,Bäuerle,1786,Kunstepoche,Comedy,drama,1813,baeuerle-die-buerger-in-wien.xml,https://github.com/dracor-org/gerdracor,,18333
+194,195,Orpheus und Euridice oder So geht es im Olymp zu!,Meisl,1775,Kunstepoche,,drama,1813,meisl-orpheus-und-euridice.xml,https://github.com/dracor-org/gerdracor,,15594
+195,196,Die Schuld,Müllner,1774,Kunstepoche,Tragedy,drama,1813,muellner-die-schuld.xml,https://github.com/dracor-org/gerdracor,,18826
+196,197,Unser Verkehr,Sessa,1786,Kunstepoche,Comedy,drama,1813,sessa-unser-verkehr.xml,https://github.com/dracor-org/gerdracor,,9480
+197,198,Welche ist die Braut!,Weißenthurn,1772,Kunstepoche,Comedy,drama,1813,weissenthurn-welche-ist-die-braut.xml,https://github.com/dracor-org/gerdracor,,27587
+198,199,Die Gründung Prags,Brentano,1778,Kunstepoche,,drama,1814,brentano-die-gruendung-prags.xml,https://github.com/dracor-org/gerdracor,,85457
+199,200,Der Schutzgeist,Kotzebue,1761,Aufklaerung,,drama,1814,kotzebue-der-schutzgeist.xml,https://github.com/dracor-org/gerdracor,,28323
+200,201,Des Epimenides Erwachen,Goethe,1749,Aufklaerung,,drama,1815,goethe-des-epimenides-erwachen.xml,https://github.com/dracor-org/gerdracor,,7724
+201,202,Faust,Bernard,1781,Kunstepoche,,drama,1816,bernard-faust.xml,https://github.com/dracor-org/gerdracor,,12000
+202,203,Der erste May oder der reiche Poet,Reil,1773,Kunstepoche,,drama,1816,reil-der-erste-may.xml,https://github.com/dracor-org/gerdracor,,7047
+203,204,Doktor Faust's Mantel,Bäuerle,1786,Kunstepoche,,drama,1817,baeuerle-doktor-fausts-mantel.xml,https://github.com/dracor-org/gerdracor,,20446
+204,205,Die Ahnfrau,Grillparzer,1791,Kunstepoche,Tragedy,drama,1817,grillparzer-die-ahnfrau.xml,https://github.com/dracor-org/gerdracor,,21503
+205,206,Der Freimaurer,Kotzebue,1761,Aufklaerung,Comedy,drama,1817,kotzebue-der-freimaurer.xml,https://github.com/dracor-org/gerdracor,,5351
+206,207,König Yngurd,Müllner,1774,Kunstepoche,Tragedy,drama,1817,muellner-koenig-yngurd.xml,https://github.com/dracor-org/gerdracor,,34232
+207,208,Das Manuscript,Weißenthurn,1772,Kunstepoche,Comedy,drama,1817,weissenthurn-das-manuscript.xml,https://github.com/dracor-org/gerdracor,,24536
+208,209,Der Schicksalsstrumpf,Castelli,1781,Kunstepoche,Comedy,drama,1818,castelli-jeitteles-der-schicksalsstrumpf.xml,https://github.com/dracor-org/gerdracor,,15263
+209,210,Sappho,Grillparzer,1791,Kunstepoche,Tragedy,drama,1818,grillparzer-sappho.xml,https://github.com/dracor-org/gerdracor,,19170
+210,211,"Der lustige Fritz oder Schlafe, Träume, stehe auf, kleide dich an und bessre dich!",Meisl,1775,Kunstepoche,,drama,1818,meisl-der-lustige-fritz.xml,https://github.com/dracor-org/gerdracor,,16382
+211,212,Ernst Herzog von Schwaben,Uhland,1787,Kunstepoche,Tragedy,drama,1818,uhland-ernst-herzog-von-schwaben.xml,https://github.com/dracor-org/gerdracor,,15706
+212,213,Der Ahnherr,d'Elpons,1785,Kunstepoche,Comedy,drama,1819,delpons-der-ahnherr.xml,https://github.com/dracor-org/gerdracor,,3698
+213,214,Die Freistatt,Houwald,1778,Kunstepoche,Comedy,drama,1819,houwald-die-freistatt.xml,https://github.com/dracor-org/gerdracor,,5419
+214,215,Eumenides Düster,Richter,1797,Kunstepoche,Tragedy,drama,1819,richter-eumenides-duester.xml,https://github.com/dracor-org/gerdracor,,6151
+215,216,Ludwig der Bayer,Uhland,1787,Kunstepoche,,drama,1819,uhland-ludwig-der-bayer.xml,https://github.com/dracor-org/gerdracor,,17169
+216,217,Der alte Bürger-Capitain oder Die Entführung,Malß,1792,Kunstepoche,Comedy,drama,1820,malss-der-alte-buerger-capitain.xml,https://github.com/dracor-org/gerdracor,,16342
+217,218,Der Eheteufel auf Reisen,Gleich,1772,Kunstepoche,,drama,1821,gleich-der-eheteufel-auf-reisen.xml,https://github.com/dracor-org/gerdracor,,15883
+218,219,Der Gastfreund,Grillparzer,1791,Kunstepoche,Tragedy,drama,1821,grillparzer-der-gastfreund.xml,https://github.com/dracor-org/gerdracor,,5086
+219,220,Die Argonauten,Grillparzer,1791,Kunstepoche,Tragedy,drama,1821,grillparzer-die-argonauten.xml,https://github.com/dracor-org/gerdracor,,18677
+220,221,Medea,Grillparzer,1791,Kunstepoche,Tragedy,drama,1821,grillparzer-medea.xml,https://github.com/dracor-org/gerdracor,,22481
+221,222,Almansor,Heine,1797,Kunstepoche,Tragedy,drama,1821,heine-almansor.xml,https://github.com/dracor-org/gerdracor,,15014
+222,223,Der Freischütz,Kind,1768,Aufklaerung,,drama,1821,kind-der-freischuetz.xml,https://github.com/dracor-org/gerdracor,,13181
+223,224,Die Schwestern St. Janvier,Weißenthurn,1772,Kunstepoche,,drama,1821,weissenthurn-die-schwestern-st-janvier.xml,https://github.com/dracor-org/gerdracor,,18887
+224,225,Welcher ist der Bräutigam?,Weißenthurn,1772,Kunstepoche,Comedy,drama,1821,weissenthurn-welcher-ist-der-braeutigam.xml,https://github.com/dracor-org/gerdracor,,18882
+225,226,Der Paria,Beer,1800,Kunstepoche,Tragedy,drama,1823,beer-der-paria.xml,https://github.com/dracor-org/gerdracor,,7590
+226,227,Euryanthe,Chézy,1783,Kunstepoche,,drama,1823,chezy-euryanthe.xml,https://github.com/dracor-org/gerdracor,,10603
+227,228,William Ratcliff,Heine,1797,Kunstepoche,Tragedy,drama,1823,heine-william-ratcliff.xml,https://github.com/dracor-org/gerdracor,,8429
+228,229,Der Barometermacher auf der Zauberinsel,Raimund,1790,Kunstepoche,Comedy,drama,1823,raimund-der-barometermacher-auf-der-zauberinsel.xml,https://github.com/dracor-org/gerdracor,,16206
+229,230,Faust,Voß,1768,Aufklaerung,Tragedy,drama,1823,voss-faust.xml,https://github.com/dracor-org/gerdracor,,15598
+230,231,Berengar,Platen,1796,Kunstepoche,Comedy,drama,1824,platen-berengar.xml,https://github.com/dracor-org/gerdracor,,4572
+231,232,Der Diamant des Geisterkönigs,Raimund,1790,Kunstepoche,,drama,1824,raimund-der-diamant-des-geisterkoenigs.xml,https://github.com/dracor-org/gerdracor,,18932
+232,233,König Ottokars Glück und Ende,Grillparzer,1791,Kunstepoche,Tragedy,drama,1825,grillparzer-koenig-ottokars-glueck-und-ende.xml,https://github.com/dracor-org/gerdracor,,31116
+233,234,Die Kalkbrenner,Holtei,1798,Kunstepoche,Comedy,drama,1825,holtei-die-kalkbrenner.xml,https://github.com/dracor-org/gerdracor,,7949
+234,235,Kritik und Antikritik,Raupach,1784,Kunstepoche,Comedy,drama,1825,raupach-kritik-und-antikritik.xml,https://github.com/dracor-org/gerdracor,,19153
+235,236,Marino Caboga,Arnim,1784,Kunstepoche,,drama,1826,arnim-marino-caboga.xml,https://github.com/dracor-org/gerdracor,,16678
+236,237,Die verhängnisvolle Gabel,Platen,1796,Kunstepoche,Comedy,drama,1826,platen-die-verhaengnisvolle-gabel.xml,https://github.com/dracor-org/gerdracor,,15409
+237,238,Das Mädchen aus der Feenwelt oder Der Bauer als Millionär,Raimund,1790,Kunstepoche,,drama,1826,raimund-das-maedchen-aus-der-feenwelt.xml,https://github.com/dracor-org/gerdracor,,21439
+238,239,Herzog Theodor von Gothland,Grabbe,1801,Kunstepoche,Tragedy,drama,1827,grabbe-herzog-theodor-von-gothland.xml,https://github.com/dracor-org/gerdracor,,50172
+239,240,"Scherz, Satire, Ironie und tiefere Bedeutung",Grabbe,1801,Kunstepoche,Comedy,drama,1827,grabbe-scherz-satire-ironie-und-tiefere-bedeutung.xml,https://github.com/dracor-org/gerdracor,,19199
+240,241,Moisasurs Zauberfluch,Raimund,1790,Kunstepoche,,drama,1827,raimund-moisasurs-zauberfluch.xml,https://github.com/dracor-org/gerdracor,,18464
+241,242,Struensee,Beer,1800,Kunstepoche,Tragedy,drama,1828,beer-struensee.xml,https://github.com/dracor-org/gerdracor,,36235
+242,243,Jessonda,Gehe,1793,Kunstepoche,,drama,1828,gehe-jessonda.xml,https://github.com/dracor-org/gerdracor,,5778
+243,244,Ein treuer Diener seines Herrn,Grillparzer,1791,Kunstepoche,Tragedy,drama,1828,grillparzer-ein-treuer-diener-seines-herrn.xml,https://github.com/dracor-org/gerdracor,,23761
+244,245,Der Alpenkönig und der Menschenfeind,Raimund,1790,Kunstepoche,,drama,1828,raimund-der-alpenkoenig-und-der-menschenfeind.xml,https://github.com/dracor-org/gerdracor,,24787
+245,246,Die gefesselte Phantasie,Raimund,1790,Kunstepoche,,drama,1828,raimund-die-gefesselte-phantasie.xml,https://github.com/dracor-org/gerdracor,,16791
+246,247,Der Vampyr,Wohlbrück,1795,Kunstepoche,,drama,1828,wohlbrueck-der-vampyr.xml,https://github.com/dracor-org/gerdracor,,19952
+247,248,Pfeffer-Rösel oder Die Frankfurter Messe im Jahre 1297,Birch-Pfeiffer,1800,Kunstepoche,,drama,1829,birch-pfeiffer-pfeffer-roesel.xml,https://github.com/dracor-org/gerdracor,,21997
+248,249,Don Juan und Faust,Grabbe,1801,Kunstepoche,Tragedy,drama,1829,grabbe-don-juan-und-faust.xml,https://github.com/dracor-org/gerdracor,,26647
+249,250,Kaiser Friedrich Barbarossa,Grabbe,1801,Kunstepoche,Tragedy,drama,1829,grabbe-kaiser-friedrich-barbarossa.xml,https://github.com/dracor-org/gerdracor,,26232
+250,251,Der romantische Ödipus,Platen,1796,Kunstepoche,Comedy,drama,1829,platen-der-romantische-oedipus.xml,https://github.com/dracor-org/gerdracor,,16743
+251,252,"Die unheilbringende Zauberkrone oder König ohne Reich, Held ohne Mut, Schönheit ohne Jugend",Raimund,1790,Kunstepoche,Tragicomedy,drama,1829,raimund-die-unheilbringende-zauberkrone.xml,https://github.com/dracor-org/gerdracor,,26463
+252,253,Die Walpurgisnacht,Birch-Pfeiffer,1800,Kunstepoche,,drama,1830,birch-pfeiffer-die-walpurgisnacht.xml,https://github.com/dracor-org/gerdracor,,19873
+253,254,Der letzte Held von Marienburg,Eichendorff,1788,Kunstepoche,Tragedy,drama,1830,eichendorff-der-letzte-held-von-marienburg.xml,https://github.com/dracor-org/gerdracor,,27759
+254,255,Kaiser Heinrich der Sechste,Grabbe,1801,Kunstepoche,Tragedy,drama,1830,grabbe-kaiser-heinrich-der-sechste.xml,https://github.com/dracor-org/gerdracor,,34682
+255,256,Napoleon oder Die hundert Tage,Grabbe,1801,Kunstepoche,,drama,1831,grabbe-napoleon.xml,https://github.com/dracor-org/gerdracor,,43939
+256,257,Des Meeres und der Liebe Wellen,Grillparzer,1791,Kunstepoche,Tragedy,drama,1831,grillparzer-des-meeres-und-der-liebe-wellen.xml,https://github.com/dracor-org/gerdracor,,22745
+257,258,Faust. Der Tragödie zweiter Teil,Goethe,1749,Aufklaerung,Tragedy,drama,1832,goethe-faust-der-tragoedie-zweiter-teil.xml,https://github.com/dracor-org/gerdracor,,53408
+258,259,Ein Trauerspiel in Berlin,Holtei,1798,Kunstepoche,Tragedy,drama,1832,holtei-ein-trauerspiel-in-berlin.xml,https://github.com/dracor-org/gerdracor,,22357
+259,260,Das Gericht von St. Petersburg,Immermann,1796,Kunstepoche,Tragedy,drama,1832,immermann-das-gericht-von-st-petersburg.xml,https://github.com/dracor-org/gerdracor,,23879
+260,261,Die Bojaren,Immermann,1796,Kunstepoche,,drama,1832,immermann-die-bojaren.xml,https://github.com/dracor-org/gerdracor,,21427
+261,262,Eudoxia,Immermann,1796,Kunstepoche,,drama,1832,immermann-eudoxia.xml,https://github.com/dracor-org/gerdracor,,8247
+262,263,Merlin,Immermann,1796,Kunstepoche,,drama,1832,immermann-merlin.xml,https://github.com/dracor-org/gerdracor,,25806
+263,264,Hans Heiling,Devrient,1801,Kunstepoche,,drama,1833,devrient-hans-heiling.xml,https://github.com/dracor-org/gerdracor,,16420
+264,265,Die Freier,Eichendorff,1788,Kunstepoche,Comedy,drama,1833,eichendorff-die-freier.xml,https://github.com/dracor-org/gerdracor,,17813
+265,266,Der böse Geist Lumpazivagabundus oder Das liederliche Kleeblatt,Nestroy,1801,Kunstepoche,Comedy,drama,1833,nestroy-der-boese-geist-lumpazivagabundus.xml,https://github.com/dracor-org/gerdracor,,16922
+266,267,Das Nachtlager von Granada,Braun von Braunthal,1802,Kunstepoche,,drama,1834,braun-von-braunthal-das-nachtlager-von-granada.xml,https://github.com/dracor-org/gerdracor,,10713
+267,268,Der Traum ein Leben,Grillparzer,1791,Kunstepoche,,drama,1834,grillparzer-der-traum-ein-leben.xml,https://github.com/dracor-org/gerdracor,,21636
+268,269,Der Verschwender,Raimund,1790,Kunstepoche,,drama,1834,raimund-der-verschwender.xml,https://github.com/dracor-org/gerdracor,,26739
+269,270,Bürgerlich und Romantisch,Bauernfeld,1802,Kunstepoche,Comedy,drama,1835,bauernfeld-buergerlich-und-romantisch.xml,https://github.com/dracor-org/gerdracor,,21765
+270,271,Johannes Gutenberg,Birch-Pfeiffer,1800,Kunstepoche,,drama,1835,birch-pfeiffer-johannes-gutenberg.xml,https://github.com/dracor-org/gerdracor,,20756
+271,272,Faust,Braun von Braunthal,1802,Kunstepoche,Tragedy,drama,1835,braun-von-braunthal-faust.xml,https://github.com/dracor-org/gerdracor,,21747
+272,273,Dantons Tod,Büchner,1813,Kunstepoche,,drama,1835,buechner-dantons-tod.xml,https://github.com/dracor-org/gerdracor,,23158
+273,274,Hannibal,Grabbe,1801,Kunstepoche,,drama,1835,grabbe-hannibal.xml,https://github.com/dracor-org/gerdracor,,20582
+274,275,"Andreas Hofer, der Sandwirt von Passeier",Immermann,1796,Kunstepoche,Tragedy,drama,1835,immermann-andreas-hofer.xml,https://github.com/dracor-org/gerdracor,,21051
+275,276,Die Jungfern Köchinnen,Malß,1792,Kunstepoche,Comedy,drama,1835,malss-die-jungfern-koechinnen.xml,https://github.com/dracor-org/gerdracor,,11141
+276,277,Eulenspiegel oder Schabernack über Schabernack,Nestroy,1801,Kunstepoche,Comedy,drama,1835,nestroy-eulenspiegel.xml,https://github.com/dracor-org/gerdracor,,19381
+277,278,Zu ebener Erde und erster Stock oder Die Launen des Glückes,Nestroy,1801,Kunstepoche,Comedy,drama,1835,nestroy-zu-ebener-erde-und-erster-stock.xml,https://github.com/dracor-org/gerdracor,,23669
+278,279,Herr und Sklave,Zedlitz,1790,Kunstepoche,Tragedy,drama,1835,zedlitz-herr-und-sklave.xml,https://github.com/dracor-org/gerdracor,,4667
+279,280,Die Gunst des Augenblicks,Devrient,1801,Kunstepoche,Comedy,drama,1836,devrient-die-gunst-des-augenblicks.xml,https://github.com/dracor-org/gerdracor,,21074
+280,281,Woyzeck,Büchner,1813,Kunstepoche,,drama,1837,buechner-woyzeck.xml,https://github.com/dracor-org/gerdracor,,12015
+281,282,Zar und Zimmermann,Lortzing,1801,Kunstepoche,,drama,1837,lortzing-zar-und-zimmermann.xml,https://github.com/dracor-org/gerdracor,,18951
+282,283,Das Haus der Temperamente,Nestroy,1801,Kunstepoche,Comedy,drama,1837,nestroy-das-haus-der-temperamente.xml,https://github.com/dracor-org/gerdracor,,34159
+283,284,Leonce und Lena,Büchner,1813,Kunstepoche,Comedy,drama,1838,buechner-leonce-und-lena.xml,https://github.com/dracor-org/gerdracor,,10143
+284,285,Die Hermannsschlacht,Grabbe,1801,Kunstepoche,,drama,1838,grabbe-die-hermannsschlacht.xml,https://github.com/dracor-org/gerdracor,,19095
+285,286,"Weh dem, der lügt!",Grillparzer,1791,Kunstepoche,Comedy,drama,1838,grillparzer-weh-dem-der-luegt.xml,https://github.com/dracor-org/gerdracor,,21117
+286,287,Das bemooste Haupt oder Der lange Israël,Benedix,1811,Kunstepoche,,drama,1839,benedix-das-bemooste-haupt.xml,https://github.com/dracor-org/gerdracor,,20151
+287,288,Richard Savage oder Der Sohn einer Mutter,Gutzkow,1811,Kunstepoche,Tragedy,drama,1839,gutzkow-richard-savage.xml,https://github.com/dracor-org/gerdracor,,23177
+288,289,Faust,Wolfram,1807,Kunstepoche,,drama,1839,wolfram-faust.xml,https://github.com/dracor-org/gerdracor,,37756
+289,290,"Perdu! oder Dichter, Verleger und Blaustrümpfe",Droste-Hülshoff,1797,Kunstepoche,Comedy,drama,1840,droste-huelshoff-perdu.xml,https://github.com/dracor-org/gerdracor,,17594
+290,291,Judith,Hebbel,1813,Kunstepoche,Tragedy,drama,1840,hebbel-judith.xml,https://github.com/dracor-org/gerdracor,,25218
+291,292,Monaldeschi,Laube,1806,Kunstepoche,Tragedy,drama,1841,laube-monaldeschi.xml,https://github.com/dracor-org/gerdracor,,46129
+292,293,Das Mädl aus der Vorstadt oder Ehrlich währt am längsten,Nestroy,1801,Kunstepoche,Comedy,drama,1841,nestroy-das-maedl-aus-der-vorstadt.xml,https://github.com/dracor-org/gerdracor,,23932
+293,294,Datterich,Niebergall,1815,Kunstepoche,Comedy,drama,1841,niebergall-datterich.xml,https://github.com/dracor-org/gerdracor,,21846
+294,295,Industrie und Herz,Bauernfeld,1802,Kunstepoche,Comedy,drama,1842,bauernfeld-industrie-und-herz.xml,https://github.com/dracor-org/gerdracor,,17463
+295,296,Doctor Wespe,Benedix,1811,Kunstepoche,Comedy,drama,1842,benedix-doctor-wespe.xml,https://github.com/dracor-org/gerdracor,,27028
+296,297,Der Sohn der Wildnis,Halm,1806,Kunstepoche,,drama,1842,halm-der-sohn-der-wildnis.xml,https://github.com/dracor-org/gerdracor,,24615
+297,298,Der Wildschütz oder Die Stimme der Natur,Lortzing,1801,Kunstepoche,,drama,1842,lortzing-der-wildschuetz.xml,https://github.com/dracor-org/gerdracor,,21661
+298,299,Einen Jux will er sich machen,Nestroy,1801,Kunstepoche,Comedy,drama,1842,nestroy-einen-jux-will-er-sich-machen.xml,https://github.com/dracor-org/gerdracor,,24842
+299,300,Das Incognito oder Die mehreren Könige oder Alt und Neu,Eichendorff,1788,Kunstepoche,,drama,1843,eichendorff-das-incognito.xml,https://github.com/dracor-org/gerdracor,,7257
+300,301,Genoveva,Hebbel,1813,Kunstepoche,Tragedy,drama,1843,hebbel-genoveva.xml,https://github.com/dracor-org/gerdracor,,38703
+301,302,Der Talisman,Nestroy,1801,Kunstepoche,Comedy,drama,1843,nestroy-der-talisman.xml,https://github.com/dracor-org/gerdracor,,23310
+302,303,Der fliegende Holländer,Wagner,1747,Aufklaerung,,drama,1843,wagner-der-fliegende-hollaender.xml,https://github.com/dracor-org/gerdracor,,8269
+303,304,Das Urbild des Tartüffe,Gutzkow,1811,Kunstepoche,Comedy,drama,1844,gutzkow-das-urbild-des-tartueffe.xml,https://github.com/dracor-org/gerdracor,,27695
+304,305,Zopf und Schwert,Gutzkow,1811,Kunstepoche,Comedy,drama,1844,gutzkow-zopf-und-schwert.xml,https://github.com/dracor-org/gerdracor,,26365
+305,306,Maria Magdalene,Hebbel,1813,Kunstepoche,Tragedy,drama,1844,hebbel-maria-magdalene.xml,https://github.com/dracor-org/gerdracor,,27336
+306,307,Stadt und Land oder Der Viehhändler aus Oberösterreich,Kaiser,1814,Kunstepoche,Comedy,drama,1844,kaiser-stadt-und-land.xml,https://github.com/dracor-org/gerdracor,,19127
+307,308,Struensee,Laube,1806,Kunstepoche,Tragedy,drama,1844,laube-struensee.xml,https://github.com/dracor-org/gerdracor,,35223
+308,309,Der Zerrissene,Nestroy,1801,Kunstepoche,Comedy,drama,1844,nestroy-der-zerrissene.xml,https://github.com/dracor-org/gerdracor,,19713
+309,310,Gottsched und Gellert,Laube,1806,Kunstepoche,Comedy,drama,1845,laube-gottsched-und-gellert.xml,https://github.com/dracor-org/gerdracor,,46960
+310,311,Die politische Wochenstube,Prutz,1816,Kunstepoche,Comedy,drama,1845,prutz-die-politische-wochenstube.xml,https://github.com/dracor-org/gerdracor,,20458
+311,312,Tannhäuser und Der Sängerkrieg auf Wartburg,Wagner,1747,Aufklaerung,,drama,1845,wagner-tannhaeuser.xml,https://github.com/dracor-org/gerdracor,,8727
+312,313,Großjährig,Bauernfeld,1802,Kunstepoche,Comedy,drama,1846,bauernfeld-grossjaehrig.xml,https://github.com/dracor-org/gerdracor,,15829
+313,314,Uriel Acosta,Gutzkow,1811,Kunstepoche,Tragedy,drama,1846,gutzkow-uriel-acosta.xml,https://github.com/dracor-org/gerdracor,,19614
+314,315,Die Karlsschüler,Laube,1806,Kunstepoche,,drama,1846,laube-die-karlsschueler.xml,https://github.com/dracor-org/gerdracor,,48364
+315,316,Der Waffenschmied,Lortzing,1801,Kunstepoche,,drama,1846,lortzing-der-waffenschmied.xml,https://github.com/dracor-org/gerdracor,,15660
+316,317,Der Unbedeutende,Nestroy,1801,Kunstepoche,Comedy,drama,1846,nestroy-der-unbedeutende.xml,https://github.com/dracor-org/gerdracor,,22277
+317,318,Doctor Johannes Faust,Simrock,1802,Kunstepoche,,drama,1846,simrock-doctor-johannes-faust.xml,https://github.com/dracor-org/gerdracor,,12929
+318,319,Der Diamant,Hebbel,1813,Kunstepoche,Comedy,drama,1847,hebbel-der-diamant.xml,https://github.com/dracor-org/gerdracor,,26507
+319,320,Ein Trauerspiel in Sizilien,Hebbel,1813,Kunstepoche,Tragicomedy,drama,1847,hebbel-trauerspiel-in-sizilien.xml,https://github.com/dracor-org/gerdracor,,8548
+320,321,Die Schule des Armen oder Zwei Millionen,Kaiser,1814,Kunstepoche,,drama,1847,kaiser-die-schule-des-armen.xml,https://github.com/dracor-org/gerdracor,,24793
+321,322,Der Roaga [Reiher],Kobell,1803,Kunstepoche,,drama,1847,kobell-der-roaga.xml,https://github.com/dracor-org/gerdracor,,4154
+322,323,Martha oder Der Markt zu Richmond,Riese,1805,Kunstepoche,,drama,1847,riese-martha.xml,https://github.com/dracor-org/gerdracor,,10740

@@ -1,0 +1,125 @@
+,id,title,author,author_birth_year,period,type,genre,date,file,source,annotation,tokens_cleaned
+34,35,"Armut, Reichtum, Schuld und Buße der Gräfin Dolores ","Arnim, Achim",1781,Kunstepoche,Roman,epik,1810,Arnim_GraefinDolores.txt,https://www.projekt-gutenberg.org/arnim/dolores/titlepage.html,,170246
+93,94,Das Leben der Hochgräfin Gritta von Rattenzuhausbeiuns,"Arnim, Gisela",1827,Kunstepoche,Roman,epik,1840,Arnim_DasLebenDerHochgraefin.txt,,,54832
+108,109,Evremont,Bernhardi,1775,Kunstepoche,Roman,epik,1836,Bernhardi_Evremont.txt,"http://www.zeno.org/Literatur/M/Bernhardi,+Sophie/Roman/Evremont",,230648
+57,58,Lebensgeschichte und Natürliche Ebenteuer des Armen Mannes im Tockenburg ,Braeker,1735,Kunstepoche,Roman,epik,1789,Braeker_Tockenburg.txt,,,68601
+84,85,Godwi,Brentano,1778,Kunstepoche,Roman,epik,1801,Brentano_Godwi.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,143505
+85,86,Aus der Chronika eines fahrenden Schülers,Brentano,1778,Kunstepoche,Roman,epik,1818,Brentano_ChronikaEinesFahrendenSchuelers.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,14257
+86,87,Baron Hüpfenstich,Brentano,1778,Kunstepoche,Roman,epik,1811,Brentano_BaronHuepfenstich.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,8157
+87,88,Das Märchen von dem Myrtenfräulein,Brentano,1778,Kunstepoche,Roman,epik,1811,Brentano_Myrtenfraeulein.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,4201
+88,89,Der Arme Raimondo,Brentano,1778,Kunstepoche,Roman,epik,,Brentano_DerArmeRaimondo.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,7530
+89,90,Geschichte vom braven Kasperl und dem schönen Annerl,Brentano,1778,Kunstepoche,Roman,epik,1838,Brentano_KasperlUndAnnerl.txt,https://www.projekt-gutenberg.org/autoren/namen/brentano.html,,12787
+49,50,Wunderbare Reise zu Wasser und zu Land,Buerger,1747,Aufklaerung,Roman,epik,1786,Buerger_Muenchhausen.txt,,,27827
+12,13,Robinson der Jüngere,Campe,1746,Aufklaerung,Roman,epik,1779,Campe_Robinson.txt,https://www.projekt-gutenberg.org/campe/robinson/robinson.html,,105762
+117,118,Peter Schlemihls wundersame Geschichte ,Chamisso,1781,Kunstepoche,Novelle,epik,1813,Chamisso_PeterSchlemihl.txt,https://www.projekt-gutenberg.org/autoren/namen/chamisso.html,,20658
+37,38,Ahnung und Gegenwart,Eichendorff,1788,Kunstepoche,Roman,epik,1812,Eichendorff_AhnungundGegenwart.txt,https://www.projekt-gutenberg.org/eichndrf/ahnung/ahnung.html,,101959
+38,39,Aus dem Leben eines Taugenichts,Eichendorff,1788,Kunstepoche,Novelle,epik,1822,Eichendorff_LebeneinesTaugenichts.txt,https://www.deutschestextarchiv.de/book/show/eichendorff_taugenichts_1826,muss bereinigt werden,32525
+94,95,Gustavs Verirrungen,Fischer,1764,Aufklaerung,Roman,epik,1801,Fischer_GustavsVerirrungen.txt,,,17820
+95,96,Vierzehn Tage in Paris,Fischer,1764,Aufklaerung,Roman,epik,1801,Fischer_14TageInParies.txt,,,14782
+96,97,Die Günstlinge,Fischer,1764,Aufklaerung,Roman,epik,1809,Fischer_DieGuenstlinge.txt,,,18483
+97,98,Margaethe,Fischer,1764,Aufklaerung,Roman,epik,1812,Fischer_Magarethe.txt,,,41292
+54,55,Das Leben der Schwedischen Gräfin von G ,Gellert,1715,Aufklaerung,Roman,epik,1748,Gellert_SchwedischeGraefingVonG.txt,,,50530
+1,2,Die Leiden des jungen Werthers,Goethe,1749,Aufklaerung,Roman,epik,1774,Goethe_Werther.txt,https://www.projekt-gutenberg.org/goethe/werther/chap01.html,Sturm und Drang,41869
+17,18,Wilhelm Meisters theatralische Sendung,Goethe,1749,Aufklaerung,Roman,epik,1777,Goethe_MeisterSendung.txt,https://www.projekt-gutenberg.org/goethe/meisthea/meisthea.html,,112525
+18,19,Wilhelm Meisters Lehrjahre,Goethe,1749,Aufklaerung,Roman,epik,1795,Goethe_MeisterLehrjahre.txt,https://www.projekt-gutenberg.org/goethe/meisterl/meisterl.html,,176062
+19,20,Reineke Fuchs,Goethe,1749,Aufklaerung,Epos,epik,1793,Goethe_ReinkeFuchs.txt,https://www.projekt-gutenberg.org/goethe/reineke/reineke.html,Versepos,44379
+20,21,Hermann und Dorothea,Goethe,1749,Aufklaerung,Epos,epik,1797,Goethe_HermannUndDorothea.txt,https://www.projekt-gutenberg.org/goethe/hermann/hermann.html,Versepos,20873
+35,36,Die Wahlverwandschaften,Goethe,1749,Aufklaerung,Roman,epik,1809,Goethe_Wahlverwandtschaften.txt,https://www.projekt-gutenberg.org/goethe/wahlverw/wahlverw.html,,82663
+36,37,Wilhelm Meisters Wanderjahre,Goethe,1749,Aufklaerung,Roman,epik,1829,Goethe_Wanderjahre.txt,https://www.projekt-gutenberg.org/goethe/meisterw/meisterw.html,,153394
+106,107,Geschichte eines Braminen,Guenderrode,1780,Kunstepoche,Roman,epik,1799,Guenderrode_Braminen.txt,"http://www.zeno.org/Literatur/M/G%C3%BCnderrode,+Karoline+von/Prosa",,3826
+107,108,Prosa aus dem Nachlaß,Guenderrode,1780,Kunstepoche,Roman,epik,1804,Guenderrode_Nachlass.txt,"http://www.zeno.org/Literatur/M/G%C3%BCnderrode,+Karoline+von/Prosa",,1853
+82,83,Lichtenstein,Hauff,1802,Kunstepoche,Roman,epik,1826,Hauff_Lichtenstein.txt,https://www.projekt-gutenberg.org/autoren/namen/hauff.html,,116931
+83,84,Der Mann im Mond,Hauff,1802,Kunstepoche,Roman,epik,1826,Hauff_DerMannImMond.txt,https://www.projekt-gutenberg.org/autoren/namen/hauff.html,,72337
+60,61,Der Zundelheiner,Hebel,1813,Kunstepoche,Kalendergeschichten,epik,1811,Hebel_Zundelheiner.txt,,,6071
+69,70,Ardinghello und die glückseeligen Inseln ,Heinse,1746,Aufklaerung,Roman,epik,1787,Heinse_Ardinghello.txt,https://www.projekt-gutenberg.org/autoren/namen/heinse.html,,105906
+41,42,Elixiere des Teufels,Hoffmann,1776,Kunstepoche,Roman,epik,1815,Hoffmann_ElixieredesTeufels.txt,https://www.projekt-gutenberg.org/etahoff/elexiere/index.html,,111298
+42,43,Fantasiestücke in Callots Manier,Hoffmann,1776,Kunstepoche,Roman,epik,1830,Hoffmann_CallotsManier.txt,https://www.projekt-gutenberg.org/etahoff/callot/callot.html,,123490
+43,44,Lebens-Ansichten des Katers Murr ,Hoffmann,1776,Kunstepoche,Roman,epik,1819,Hoffmann_KatersMurr.txt,https://www.projekt-gutenberg.org/etahoff/murr1/index.html,,139580
+44,45,Nachtstücke,Hoffmann,1776,Kunstepoche,Erzählzyklus,epik,1816,Hoffmann_Nachtstücke.txt,"http://www.zeno.org/Literatur/M/Hoffmann,+E.+T.+A./Erz%C3%A4hlungen,+M%C3%A4rchen+und+Schriften/Nachtst%C3%BCcke",,110199
+45,46,Serapionsbrüder ,Hoffmann,1776,Kunstepoche,Erzählzyklus,epik,1819,Hoffmann_Serapionsbrueder.txt,https://www.projekt-gutenberg.org/etahoff/serapion/index.html,,380812
+21,22,Hyperion,Hölderlin,1770,Kunstepoche,Roman,epik,1797,Hölderlin_Hyperion.txt,https://www.projekt-gutenberg.org/hoelderl/hyperion/hyper104.html,,51123
+101,102,Die Famile Seldorf,Huber,1764,Kunstepoche,Roman,epik,1796,Huber_DieFamileSeldorf.txt,"http://www.zeno.org/Literatur/M/Huber,+Therese",,94984
+102,103,Luise,Huber,1764,Kunstepoche,Roman,epik,1796,Huber_Luise.txt,"http://www.zeno.org/Literatur/M/Huber,+Therese",,40664
+103,104,Ellen Percy,Huber,1764,Kunstepoche,Roman,epik,1822,Huber_EllenPercy.txt,"http://www.zeno.org/Literatur/M/Huber,+Therese",,92124
+70,71,Aus Eduard Allwills Papieren,Jacobi,1743,Aufklaerung,Roman,epik,1776,Jacobi_AusEduardAllwillsPapieren.txt,"http://www.zeno.org/Literatur/M/Jacobi,+Friedrich+Heinrich/Romane",,25747
+71,72,Woldemar,Jacobi,1743,Aufklaerung,Roman,epik,1779,Jacobi_Woldemar.txt,"http://www.zeno.org/Literatur/M/Jacobi,+Friedrich+Heinrich/Romane",,30648
+11,12,Jugend,Jung-Stilling,1740,Aufklaerung,Roman,epik,1777,JungStilling_Jugend.txt,"http://www.zeno.org/Literatur/M/Jung-Stilling,+Johann+Heinrich/Autobiographische+Schriften/Henrich+Stillings+Jugend",,25093
+72,73,Jünglings-Jahre,Jung-Stilling,1740,Aufklaerung,Roman,epik,1778,JungStilling_Juenglingsjahre.txt,https://www.projekt-gutenberg.org/autoren/namen/jungstil.html,,32814
+73,74,Häusliches Leben,Jung-Stilling,1740,Kunstepoche,Roman,epik,1789,JungStilling_HaeuslichesLeben.txt,https://www.projekt-gutenberg.org/autoren/namen/jungstil.html,,17471
+74,75,Wanderschaft,Jung-Stilling,1740,Aufklaerung,Roman,epik,1778,JungStilling_Wanderschaft.txt,https://www.projekt-gutenberg.org/autoren/namen/jungstil.html,,31877
+22,23,Marquise von O...,Kleist,1777,Kunstepoche,Novelle,epik,1808,Kleist_Marquise.txt,https://www.projekt-gutenberg.org/kleist/marquise/Kapitel1.html,,15568
+23,24,Erbeben in Chili,Kleist,1777,Kunstepoche,Novelle,epik,1806,Kleist_Erdbeben.txt,https://www.projekt-gutenberg.org/kleist/erdbeben/chili.html,,5601
+24,25,Michael Kohlhaas,Kleist,1777,Kunstepoche,Novelle,epik,1810,Kleist_MichaelKohlhaas.txt,https://www.projekt-gutenberg.org/kleist/kohlhaas/kohlhaas.html,,35086
+61,62,Der Findling,Kleist,1777,Kunstepoche,Novelle,epik,1811,Kleist_DerFindling.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,6146
+62,63,Das Bettelweib von Locarno,Kleist,1777,Kunstepoche,Erzählung,epik,1810,Kleist_DasBettelweibVonLocarno.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,993
+63,64,Der Zweikampf,Kleist,1777,Kunstepoche,Erzählung,epik,1811,Kleist_DerZweikampf.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,11744
+64,65,Die heilige Cäcilie oder die Gewalt der Musik,Kleist,1777,Kunstepoche,Erzählung,epik,1810,Kleist_DieHeiligeCaecilie.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,4353
+65,66,Die Verlobung von St. Domingo,Kleist,1777,Kunstepoche,Novelle,epik,1811,Kleist_DieVerlobungInStDomingo.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,13529
+66,67,Geistererscheinung,Kleist,1777,Kunstepoche,Erzählung,epik,1811,Kleist_Geistererscheinung.txt,https://www.projekt-gutenberg.org/autoren/namen/kleist.html,,1569
+40,41,Nachtwachen,Klingemann,1777,Kunstepoche,Roman,epik,1805,Klingemann_Nachtwachen.txt,"http://www.zeno.org/Literatur/M/Klingemann,+August/Roman/Die+Nachtwachen+des+Bonaventura",,39932
+0,1,Die deutsche Gelehrtenrepublik,Klopstock,1724,Aufklaerung,Satire,epik,1774,Klopstock_Gelehrtenrepublik.txt,http://www.literatur-live.de/salon/klopst_0.html,,83702
+109,110,Benjamin Noldmanns Geschichte der Aufklärung in Abyssinien,Knigge,1752,Kunstepoche,Roman,epik,1791,Knigge_Noldmann.txt,"http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von",,96346
+110,111,Josephs von Wurmbrands ... politisches Glaubensbekenntnis,Knigge,1752,Kunstepoche,Roman,epik,1792,Knigge_JospehVonWurmbrand.txt,"http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von",,21543
+111,112,Die Reise nach Braunschweig,Knigge,1752,Kunstepoche,Roman,epik,1792,Knigge_ReiseNachBraunschweig.txt,"http://www.zeno.org/Literatur/M/Knigge,+Adolph+Freiherr+von",,36266
+112,113,Die Harfe,Koerner,1791,Kunstepoche,Erzählung,epik,1811,Koerner_Harfe.txt,https://www.projekt-gutenberg.org/autoren/namen/koerner.html,,1351
+113,114,Eine Reise nach Schandau,Koerner,1791,Kunstepoche,Erzählung,epik,1810,Koerner_EineReiseNachSchandau.txt,https://www.projekt-gutenberg.org/autoren/namen/koerner.html,,5188
+114,115,Die Reise nach Wörlitz,Koerner,1791,Kunstepoche,Erzählung,epik,1810,Koerner_EineReiseNachWoerlitz.txt,https://www.projekt-gutenberg.org/autoren/namen/koerner.html,,2959
+115,116,Hans Heilings Felsen,Koerner,1791,Kunstepoche,Erzählung,epik,1811,Koerner_HansHeilingFelsen.txt,https://www.projekt-gutenberg.org/autoren/namen/koerner.html,,5239
+116,117,Woldemar,Koerner,1791,Kunstepoche,Erzählung,epik,1805,Koerner_Woldemar.txt,https://www.projekt-gutenberg.org/autoren/namen/koerner.html,,4017
+55,56,Miß Kery und Sophie Gallen,La Roche,1730,Aufklaerung,Roman,epik,1789,LaRoche_MissKeryUndSophieGallen.txt,,,13533
+56,57,Rosalie und Cleberg auf dem Lande,La Roche,1730,Aufklaerung,Roman,epik,1791,LaRoche_RosalieUndCLebergAufDemLande.txt,,,82866
+6,7,Geschichte des Fräuleins von Sternheim ,La Roche,1730,Aufklaerung,Roman,epik,1771,LaRoche_FraeuleinVonSternheim.txt,https://www.projekt-gutenberg.org/laroche/sternhm/sternhm.html,,103438
+118,119,Das Haus Bärburg oder der Familienzwist,Lafontain,1758,Aufklaerung,Novelle,epik,1805,Lafontain_DasHausBaerburg.txt,https://www.projekt-gutenberg.org/autoren/namen/lafonta.html,,82685
+119,120,Leben und Thaten des Freiherrn Quinctius Heymeran von Flaming ,Lafontain,1758,Aufklaerung,Novelle,epik,1798,Lafontain_Quinctius.txt,https://www.projekt-gutenberg.org/autoren/namen/lafonta.html,,318365
+120,121,Klara du Plessis und Klairant ,Lafontain,1758,Aufklaerung,Roman,epik,1801,Lafontain_KlaraUndKlairant.txt,https://www.projekt-gutenberg.org/autoren/namen/lafonta.html,,113056
+58,59,Der Krieg der Fünfkäser und Bierhengste,Laukhard,1757,Aufklaerung,Roman,epik,,Laukhard_KriegDerFuenfkaeser.txt,,,34632
+59,60,Eulerkappers Leben und Leiden,Laukhard,1757,Aufklaerung,Roman,epik,1804,Laukhard_Eulerkapp.txt,,,27798
+50,51,Der Redliche Mann am Hofe,Loen,1694,Aufklaerung,Roman,epik,1740,Loen_DerRedlichMannAmHofe.txt,,,116587
+67,68,Amanda und Eduard,Mereau ,1770,Kunstepoche,Roman,epik,1803,Mereau_AmandaUndEduard.txt,https://www.projekt-gutenberg.org/autoren/namen/brentans.html,,53117
+68,69,Marie,Mereau ,1770,Kunstepoche,Novelle,epik,1798,Mereau_Marie.txt,https://www.projekt-gutenberg.org/autoren/namen/brentans.html,,12209
+10,11,Anton Reiser,Moritz,1756,Aufklaerung,Roman,epik,1785,Moritz_Reiser.txt,https://www.projekt-gutenberg.org/moritz/reiser/reiser.html,,135246
+123,124,Siegfried von Lindenberg,Mueller,1743,Aufklaerung,Roman,epik,1779,Mueller_SiegfiredVonLindenberg.txt,https://www.projekt-gutenberg.org/autoren/namen/muellerj.html,,42900
+90,91,Legenden vom Rübezahl,Musaeus,1735,Aufklaerung,Novelle,epik,1783,Musaeus_Ruebezahl.txt,https://www.projekt-gutenberg.org/autoren/namen/musaeus.html,,24823
+91,92,Libussa,Musaeus,1735,Aufklaerung,Erzählung,epik,1784,Musaeus_Libussa.txt,https://www.projekt-gutenberg.org/autoren/namen/musaeus.html,,17140
+92,93,Moralische Kinderklapper,Musaeus,1735,Aufklaerung,Roman,epik,1794,Musaeus_Kinderklapper.txt,https://www.projekt-gutenberg.org/autoren/namen/musaeus.html,,15017
+46,47,Freuden des Jungen Werthers,Nicolai,1733,Aufklaerung,Roman,epik,1775,Nicolai_FreudenDesJungenWerthers.txt,,,6226
+47,48,Geschichte eines Dicken Mannes,Nicolai,1733,Aufklaerung,Roman,epik,1794,Nicolai_GeschichteEinesFettenMannes.txt,,,89261
+48,49,Das Leben und die Meinungen des Herrn Magister Sebaldus Nothanker,Nicolai,1733,Aufklaerung,Roman,epik,1776,Nicolai_SebaldusNothanker.txt,,,127685
+33,34,Heinrich von Ofterdingen,Novalis,1772,Kunstepoche,Roman,epik,1800,Novalis_HeinrichvonOfterdingen.txt,https://www.projekt-gutenberg.org/novalis/ofterdng/ofterdng.html,Fragment,51567
+25,26,Grönländische Prozesse oder Satirische Skizzen,Paul,1763,Aufklaerung,Satire,epik,1783,Paul_GrönländischeProzesse.txt,https://www.projekt-gutenberg.org/jeanpaul/groenlnd/groenlnd.html,Sehr Aufklärerisch nach Brenner,69889
+26,27,Unsichtbare Loge,Paul,1763,Aufklaerung,Roman,epik,1793,Paul_UnsichtbareLoge.txt,https://www.projekt-gutenberg.org/jeanpaul/loge/loge.html,,155889
+27,28,Hesperus,Paul,1763,Aufklaerung,Roman,epik,1795,Paul_Hesperus.txt,https://www.projekt-gutenberg.org/jeanpaul/hesperus/index.html,,257091
+28,29,Titan,Paul,1763,Aufklaerung,Roman,epik,1800,Paul_Titan.txt,https://www.projekt-gutenberg.org/jeanpaul/titan/titan.html,,332375
+29,30,Leben des vergnügten Schulmeisterlein Maria Wutz in Auenthal,Paul,1763,Aufklaerung,Roman,epik,1793,Paul_MariaWutz.txt,https://www.projekt-gutenberg.org/jeanpaul/loge/loge56.html,,13892
+78,79,Alwin,Pellegrin,1777,Kunstepoche,Roman,epik,1808,Pellegrin_Alwin.txt,https://www.projekt-gutenberg.org/autoren/namen/fouque.html,,77848
+79,80,Aslauga's Ritter,Pellegrin,1777,Kunstepoche,Roman,epik,1810,Pellegrin_AslaugasRitter.txt,https://www.projekt-gutenberg.org/autoren/namen/fouque.html,,12401
+80,81,Das Schauerfeld,Pellegrin,1777,Kunstepoche,Roman,epik,1814,Pellegrin_Schauerfeld.txt,https://www.projekt-gutenberg.org/autoren/namen/fouque.html,,4082
+81,82,Die Fahrten Thiodolfs des Isländers,Pellegrin,1777,Kunstepoche,Roman,epik,1815,Pellegrin_Thiedolf.txt,https://www.projekt-gutenberg.org/autoren/namen/fouque.html,,102344
+16,17,Der Geisterseher,Schiller,1759,Aufklaerung,Roman,epik,1789,Schiller_Geisterseher.txt,https://www.projekt-gutenberg.org/schiller/geisters/geisters.html,,49003
+31,32,Lucinde,Schlegel,1772,Kunstepoche,Roman,epik,1799,Schlegel_Lucinde.txt,https://www.projekt-gutenberg.org/schleglf/lucinde/lucinde.html,,31386
+51,52,Der im Irrgarten der Liebe herum taumelnde Cavalier,Schnabel,1758,Aufklaerung,Roman,epik,1738,Schnabel_IrrgartenDerLiebe.txt,,,144658
+52,53,Die Insel Felsenburg,Schnabel,1758,Aufklaerung,Roman,epik,1743,Schnabel_Felsenburg.txt,,,135703
+53,54,Erzählung vom ehrlichen Merillo,Schnabel,1758,Aufklaerung,Erzählung,epik,,Schnabel_Merillio.txt,,,7311
+98,99,Gabriele,Schopenhauer,1766,Aufklaerung,Roman,epik,1821,Schopenhauer_Gabriele.txt,"http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane",,159921
+99,100,Die Tante,Schopenhauer,1766,Aufklaerung,Roman,epik,1823,Schopenhauer_Tante.txt,"http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane",,126856
+100,101,Richard Wood,Schopenhauer,1766,Aufklaerung,Roman,epik,1837,Schopenhauer_RichardWood.txt,"http://www.zeno.org/Literatur/M/Schopenhauer,+Johanna/Romane",,116779
+121,122,Wilhelmines Werdegang,Thuemmel,1738,Aufklaerung,Erzählung,epik,,Thuemmel_WilhelminesWerdegang.txt,https://www.projekt-gutenberg.org/autoren/namen/thuemmel.html,,12438
+122,123,Wilhelmine,Thuemmel,1738,Aufklaerung,Epos,epik,1767,Thuemmel_Wilhelmine.txt,https://www.projekt-gutenberg.org/autoren/namen/thuemmel.html,,12470
+32,33,Franz Sternbalds Wanderungen,Tieck,1773,Kunstepoche,Roman,epik,1798,Tieck_SternbaldsWanderungen.txt,https://www.projekt-gutenberg.org/tieck/sternbld/index.html,,106973
+39,40,Blonde Eckbert,Tieck,1773,Kunstepoche,Novelle,epik,1797,Tieck_BlondeEckbert.txt,https://www.projekt-gutenberg.org/tieck/eckbert/Kapitel1.html,,6708
+75,76,Julchen Grünthal ,Unger,1741,Aufklaerung,Roman,epik,1798,Unger_JulchenGruenthal.txt,"http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane",,103424
+76,77,Albert und Albertine ,Unger,1741,Aufklaerung,Roman,epik,1804,Unger_AlbertUndAlbertine.txt,"http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane",,47547
+77,78,Bekenntnisse einer schönen Seele,Unger,1741,Aufklaerung,Roman,epik,1806,Unger_BekenntnisseEinerSchoenenSeele.txt,"http://www.zeno.org/Literatur/M/Unger,+Friederike+Helene/Romane",,51241
+104,105,Florentin,Veit,1764,Aufklaerung,Roman,epik,1801,Veit_Florentin.txt,https://www.projekt-gutenberg.org/autoren/namen/schlegld.html,,59904
+105,106,Geschichte des Zauberers Merlin,Veit,1764,Aufklaerung,Roman,epik,1804,Veit_ZaubererMerlin.txt,https://www.projekt-gutenberg.org/autoren/namen/schlegld.html,,48756
+30,31,Rinaldo Rinaldini,Vulpius,1762,Aufklaerung,Roman,epik,1799,Vulpius_RinaldoRinaldini.txt,https://www.projekt-gutenberg.org/vulpius/rinaldo/index.html,,153702
+7,8,Lebensgeschichte Tobias Knauts,Wezel,1747,Aufklaerung,Roman,epik,1777,Wezel_Knauts.txt,https://www.projekt-gutenberg.org/wezel/knaut/knaut.html,,182054
+8,9,Hermann und Ulrike,Wezel,1747,Aufklaerung,Roman,epik,,Wezel_HerrmannUlrike.txt,"http://www.zeno.org/Literatur/M/Wezel,+Johann+Karl/Romane/Hermann+und+Ulrike",,270911
+9,10,Belphegor,Wezel,1747,Aufklaerung,Roman,epik,1776,Wezel_Belphegor.txt,"http://www.zeno.org/Literatur/M/Wezel,+Johann+Karl/Romane/Belphegor",,97923
+2,3,Der Sieg der Natur über die Schwärmerei oder die Abenteuer des Don Sylvio von Rosalva,Wieland,1733,Aufklaerung,Roman,epik,1764,Wieland_DonSylvio.txt,"http://www.zeno.org/Literatur/M/Wieland,+Christoph+Martin/Romane/Die+Abenteuer+des+Don+Sylvio+von+Rosalva",,130320
+3,4,Geschichten des Agathon,Wieland,1733,Aufklaerung,Roman,epik,1766,Wieland_Agathon.txt,https://www.projekt-gutenberg.org/wieland/agathon/agathon.html,,167283
+4,5,Der goldne Spiegel oder die Könige von Scheschian,Wieland,1733,Aufklaerung,Roman,epik,1772,Wieland_GoldneSpiegel.txt,https://www.projekt-gutenberg.org/wieland/spiegel/spiegel.html,,115350
+5,6,Geschichte der Abderiten,Wieland,1733,Aufklaerung,Roman,epik,1780,Wieland_Abderiten.txt,https://www.projekt-gutenberg.org/wieland/abdera/index.html,,111828
+13,14,Peregrins Proteus,Wieland,1733,Aufklaerung,Roman,epik,1791,Wieland_PeregrinusProteus.txt,https://www.projekt-gutenberg.org/wieland/peregrin/peregrin.html,,97320
+14,15,Agathodämon,Wieland,1733,Aufklaerung,Roman,epik,1799,Wieland_Agathodaemon.txt,https://www.projekt-gutenberg.org/wieland/agathod/agathodm.html,,84926
+15,16,Aristipp und einige seiner Zeitgenossen,Wieland,1733,Aufklaerung,Roman,epik,1801,Wieland_Aristipp.txt,https://www.projekt-gutenberg.org/wieland/aristipp/aristipp.html,,294602
